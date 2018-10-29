@@ -1,0 +1,11 @@
+{
+  "title": "Protection Status of Ecological Systems",
+  "description": "Unable to retrieve a description.",
+  "charts": [
+    {
+      "title": "Protection Status of Ecological Systems",
+      "type": "eco_AOI",
+      "apiEndpoint": "https://sciencebase.usgs.gov/staging/bis/api/v1/gapmetrics/ecologicalsystems/protection?feature_id=",
+    }
+  ]
+}
